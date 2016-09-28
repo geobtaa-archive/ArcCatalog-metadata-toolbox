@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<translator name="ArcGIS Format" xslt="copy_arc_format.xslt" logLevel="all" stopOnErrors="no">
+</translator>
